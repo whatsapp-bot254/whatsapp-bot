@@ -1,0 +1,31 @@
+
+{
+"bot-name": "sir bravin",
+  "description": "Made By sir bravin",
+  "logo": "https://files.catbox.moe/wrmids.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://session-v35f.onrender.com/",
+    "owner-verification":"marisel56@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. It starts with malvin~",
+        "value":"",
+        "required": true
+        
+      },
+      
+    "OWNER_NUMBER": {
+      "description": "Enter owner number",
+      "required": true,
+      "value": "254717263***"
+      
+       },
+      "TIMEZONE": {
+      "description": "Enter country timezone",
+      "required": true,
+      "value": "Africa/Nairobi"
+
+    }  
+  }
+} 
