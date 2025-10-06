@@ -45,9 +45,9 @@ cmd({
 *│  ◦* 🎞️ *Media Type:* ${media[0].type}
 *╰┈───────────────•*
 *╭┈───────────────•*
-*│* 🌐 *Channel:* https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
-*│* 💻 *Github:* https://github.com/betingrich3
-*│* 📞 *Contact:* https://wa.me/254790375810
+*│* 🌐 *Channel:* https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m
+*│* 💻 *Github:* https://github.com/whatsapp-bot254
+*│* 📞 *Contact:* https://wa.me/254717263689
 *╰┈───────────────•*
 *◆─〈 ✦Made by Marisel✦ 〉─◆*`;
 
@@ -67,15 +67,15 @@ cmd({
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: 'Marisel',
+                        newsletterName: 'sir bravine',
                         serverMessageId: 143
                     },
                     externalAdReply: {
                         title: "Pinterest Downloader",
                         body: title,
                         mediaType: 2,
-                        thumbnailUrl: 'https://files.catbox.moe/tpzqtm.jpg',
-                        sourceUrl: 'https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x',
+                        thumbnailUrl: 'https://files.catbox.moe/56lp6n.jpg',
+                        sourceUrl: 'https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m',
                         renderLargerThumbnail: true
                     }
                 }
@@ -92,7 +92,7 @@ cmd({
                         title: "Pinterest Downloader",
                         body: title,
                         thumbnailUrl: image.download_url,
-                        sourceUrl: 'https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x',
+                        sourceUrl: 'https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m',
                         mediaType: 1,
                         renderLargerThumbnail: true
                     }
