@@ -7,7 +7,7 @@ cmd({
     react: "🦓",
     desc: "Get pairing code for bot",
     category: "download",
-    use: ".pair 25474......",
+    use: ".pair 2547471726.....",
     filename: __filename
 }, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, senderNumber, reply }) => {
     try {
@@ -16,7 +16,7 @@ cmd({
 
         // Validate phone number format
         if (!phoneNumber || phoneNumber.length < 10 || phoneNumber.length > 15) {
-            return await reply("❌ Please provide a valid phone number without `+`\nExample: `.pair 25474.....`");
+            return await reply("❌ Please provide a valid phone number without `+`\nExample: `.pair 25471726.....`");
         }
 
         // Make API request to get pairing code
