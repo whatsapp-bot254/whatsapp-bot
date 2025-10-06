@@ -25,7 +25,7 @@ cmd({
 async (conn, mek, m, { from, sender, pushname, reply }) => {
     try {
         let totalCommands = Object.keys(commands).length;
-        const caption = `*┏────〘 ᴍᴇʀᴄᴇᴅᴇs 〙───⊷*
+        const caption = `*┏────〘 WHATSAPP BOT〙───⊷*
 *┃  Owner:* ${config.OWNER_NAME}
 *┃  Prefix:* ${config.PREFIX}
 *┃  Version:* 1.0.0 Beta
@@ -34,7 +34,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
 *┃  Runtime:* ${runtime(process.uptime())}
 *┗──────────────⊷*
 
-*┏────〘 ᴍᴇʀᴄᴇᴅᴇs 〙───⊷*
+*┏────〘 WHATSAPP BOT〙───⊷*
 *┃ 1.  Quran Menu*
 *┃ 2.  Setting Menu*
 *┃ 3.  AI Menu*
