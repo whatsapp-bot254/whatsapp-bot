@@ -9,7 +9,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. It starts with malvin~",
+        "description": "Put your SESSION_ID here. It starts with sir bravin~",
         "value":"",
         "required": true
         
