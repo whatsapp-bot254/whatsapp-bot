@@ -166,12 +166,12 @@ cmd(_0x1db2db, async (_0x41aeb8, _0x5b152b, _0x4af00a, {
     };
     const _0x112b23 = {
       newsletterJid: "120363299029326322@newsletter",
-      newsletterName: "𝖒𝖆𝖗𝖎𝖘𝖊𝖑",
+      newsletterName: "sir bravin",
       serverMessageId: 0x8f
     };
     const _0x502067 = {
-      title: "𝖒𝖆𝖗𝖎𝖘𝖊𝖑",
-      body: "𝖒𝖆𝖗𝖎𝖘𝖊𝖑",
+      title: "sir bravin",
+      body:  "sir bravin",
       mediaType: 0x1,
       sourceUrl: "https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x",
       thumbnailUrl: "https://files.catbox.moe/wrmids.jpg",
