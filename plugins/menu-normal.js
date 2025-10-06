@@ -14,7 +14,7 @@ cmd({
 },
 async (conn, mek, m, { from, sender, pushname, reply }) => {
     try {
-        const dec = `*┏────〘 ᴍᴇʀᴄᴇᴅᴇs 〙───⊷*
+        const dec = `*┏────〘 WHATSAPP BOT〙───⊷*
 ┃ ✨ *Owner:* ${config.OWNER_NAME}
 ┃ ⚙️ *Mode:* ${config.MODE}
 ┃ 📡 *Platform:* Heroku
@@ -23,7 +23,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
 ┃ 🧾 *Version:* 1.0.0 Beta
 *┗──────────────⊷*
 
-*┏────〘 ᴍᴇʀᴄᴇᴅᴇs 〙───⊷*
+*┏────〘 WHATSAPP BOT〙───⊷*
 *┃* 📖 Quranmenu
 *┃* 🕋 Prayertime
 *┃* 🤖 Aimenu
@@ -55,7 +55,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: 'ᴍᴇʀᴄᴇᴅᴇs',
+                        newsletterName: 'sir bravin',
                         serverMessageId: 143
                     }
                 }
@@ -74,7 +74,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363299029326322@newsletter',
-                    newsletterName: 'ᴍᴇʀᴄᴇᴅᴇs',
+                    newsletterName: 'sir bravin',
                     serverMessageId: 143
                 }
             }
@@ -139,7 +139,7 @@ cmd({
 `;
 
   await conn.sendMessage(from, { 
-    image: { url: config.MENU_IMAGE_URL || 'https://i.ibb.co/hRVcfQGK/vision-v.jpg' }, 
+    image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/d7n5ls.jpg' }, 
     caption: settingsMenu 
   }, { quoted: mek });
 });
@@ -178,7 +178,7 @@ cmd({
 🎧 *Powered by ${config.BOT_NAME}*`;
 
     await client.sendMessage(from, {
-        image: { url: config.MENU_IMAGE_URL || 'https://i.ibb.co/hRVcfQGK/vision-v.jpg' },
+        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/cz0181.jpg' },
         caption: audioMenu,
         contextInfo: {
             mentionedJid: [message.sender],
@@ -238,7 +238,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/hRVcfQGK/vision-v.jpg` },
+                image: { url: `https://files.catbox.moe/cz0181.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -246,7 +246,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: "mᥱrᥴᥱძᥱs",
+                        newsletterName: "sir bravin",
                         serverMessageId: 143
                     }
                 }
@@ -304,7 +304,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/hRVcfQGK/vision-v.jpg` },
+                image: { url: `https://files.catbox.moe/cz0181.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -312,7 +312,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: 'mᥱrᥴᥱძᥱs',
+                        newsletterName: 'sir bravin',
                         serverMessageId: 144
                     }
                 }
@@ -387,7 +387,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/hRVcfQGK/vision-v.jpg` },
+                image: { url: `https://files.catbox.moe/cz0181.jpg ` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -395,7 +395,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: 'mᥱrᥴᥱძᥱs',
+                        newsletterName: 'sir bravin',
                         serverMessageId: 143
                     }
                 }
@@ -465,7 +465,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/hRVcfQGK/vision-v.jpg` },
+                image: { url: `https://files.catbox.moe/d7n5ls.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -473,7 +473,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: 'mᥱrᥴᥱძᥱs',
+                        newsletterName: 'sir bravin',
                         serverMessageId: 143
                     }
                 }
@@ -532,7 +532,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/hRVcfQGK/vision-v.jpg` },
+                image: { url: `https://files.catbox.moe/56lp6n.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -540,7 +540,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: 'mᥱrᥴᥱძᥱs',
+                        newsletterName: 'sir bravin',
                         serverMessageId: 143
                     }
                 }
@@ -603,7 +603,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/hRVcfQGK/vision-v.jpg` },
+                image: { url: `https://files.catbox.moe/56lp6n.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -611,7 +611,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: 'mᥱrᥴᥱძᥱs',
+                        newsletterName: 'sir bravin',
                         serverMessageId: 143
                     }
                 }
@@ -655,7 +655,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/hRVcfQGK/vision-v.jpg` },
+                image: { url: `https://files.catbox.moe/d7n5ls.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -714,7 +714,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/hRVcfQGK/vision-v.jpg` },
+                image: { url: `https://files.catbox.moe/d7n5ls.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -722,7 +722,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: 'mᥱrᥴᥱძᥱs',
+                        newsletterName: 'sir bravin',
                         serverMessageId: 143
                     }
                 }
@@ -775,7 +775,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/hRVcfQGK/vision-v.jpg` },
+                image: { url: `https://files.catbox.moe/d7n5ls.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -783,7 +783,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: 'mᥱrᥴᥱძᥱs',
+                        newsletterName: 'sir bravin',
                         serverMessageId: 143
                     }
                 }
@@ -844,7 +844,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/hRVcfQGK/vision-v.jpg` },
+                image: { url: `https://files.catbox.moe/d7n5ls.jpg  ` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -852,7 +852,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: 'mᥱrᥴᥱძᥱs',
+                        newsletterName: 'sir bravin',
                         serverMessageId: 143
                     }
                 }
@@ -903,7 +903,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/90oj1t.jpg` },
+                image: { url: `https://files.catbox.moe/d7n5ls.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -911,7 +911,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363299029326322@newsletter',
-                        newsletterName: 'mᥱrᥴᥱძᥱs',
+                        newsletterName: 'sir bravin',
                         serverMessageId: 143
                     }
                 }
