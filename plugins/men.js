@@ -76,14 +76,14 @@ cmd({
     };
 
     let menu = `
-*┏────〘 ᴍᴇʀᴄᴇᴅᴇs 〙───⊷*
+*┏────〘 WHATSAPP BOT 〙───⊷*
 *┃ ᴜꜱᴇʀ : @${sender.split("@")[0]}*
 *┃ ʀᴜɴᴛɪᴍᴇ : ${uptime()}*
 *┃ ᴍᴏᴅᴇ : ${config.MODE}*
 *┃ ᴘʀᴇғɪx : 「 ${config.PREFIX}」* 
 *┃ ᴏᴡɴᴇʀ : ${config.OWNER_NAME}*
 *┃ ᴘʟᴜɢɪɴꜱ : 『 ${commands.length} 』*
-*┃ ᴅᴇᴠ : ᴍᴀʀɪsᴇʟ*
+*┃ ᴅᴇᴠ : Sir bravin*
 *┃ ᴠᴇʀꜱɪᴏɴ : 2.0.0*
 *┗──────────────⊷*`;
 
@@ -116,7 +116,7 @@ cmd({
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: config.NEWSLETTER_JID || '120363299029326322@newsletter',
-        newsletterName: config.OWNER_NAME || toUpperStylized('marisel'),
+        newsletterName: config.OWNER_NAME || toUpperStylized('sir bravin'),
         serverMessageId: 143
       }
     };
@@ -125,7 +125,7 @@ cmd({
     await conn.sendMessage(
       from,
       {
-        image: { url: config.MENU_IMAGE_URL || 'https://url.bwmxmd.online/Adams.zjrmnw18.jpeg' },
+        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/d7n5ls.jpg' },
         caption: menu,
         contextInfo: imageContextInfo
       },
@@ -146,7 +146,7 @@ cmd({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterName: config.OWNER_NAME || toUpperStylized('marisel'),
+              newsletterName: config.OWNER_NAME || toUpperStylized('sir bravin'),
               serverMessageId: 143
             }
           }
