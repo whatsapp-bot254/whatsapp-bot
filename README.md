@@ -50,8 +50,8 @@
 # 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+  <a href="https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m">
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20sir-bravin-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 a>
 
@@ -59,5 +59,4 @@ a>
 - *whatsapp bot is made by WhatsApp Inc. for modification of your appo!*
 - *In that case, I'm not responsible for banning your account.*
 - *sir bravin have no any access with whatapp official so if you account gets ban i will be you yourself  led to your account ban.*
-  
- |                                                                                 
+          
