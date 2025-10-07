@@ -9,11 +9,11 @@
 </h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=pair+site" alt="Typing SVG" /></a>
   </div>
-<td><a href="https://jeepers-creepers-xmd-session-link-1.onrender.com" target="_blank"><img src="https://img.shields.io/badge/jeepescreepersession-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+<td><a href="h.............h.........h" target="_blank"><img src="https://img.shields.io/badge/jeepescreepersession-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
 
  ### 📤 Deployment Options
-<img "" 
+
 <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
     <img src="/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
@@ -43,7 +43,7 @@
       <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
-  ="220">
+
 </a>
 
 
