@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20sir-bravinChannel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 a>
 
