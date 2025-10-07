@@ -1,23 +1,14 @@
-</h1>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=deployed+at+all+platforms"alt="Typing SVG" /></a>
-  </div>
-  
+
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=jeepers+creeper+xmd;released+on+3th+August;by+sir+bravin;made+in+kenya🇰🇪+Eldoret" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=made+in+kenya🇰🇪+Eldoret" alt="Typing Animation">
 
 ## Hi there 👋
 <p align="center">
 <img alt="Development" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxuNTFyYW1ydDNhdzM0aWg4YzM1YXVwNHNieGlpMXVkdGdlbHV3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeLcArwlg6j4sMw/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
-
-<div align="center">
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=🌹🌹🌹sir+bravin:jeepers+creeper+xmd+bot❣️❣️❣️" alt="Typing Animation">
 
 </h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=pair+site" alt="Typing SVG" /></a>
