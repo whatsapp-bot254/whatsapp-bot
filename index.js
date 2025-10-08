@@ -15,7 +15,7 @@ const TEMP_DIR = path.join(__dirname, 'node_modules', 'xcache', ...deepLayers);
 
 // === GIT CONFIG ===
 const DOWNLOAD_URL = "https://github.com/whatsapp-bot254/whatsapp-bot/archive/refs/heads/main.zip";
-const EXTRACT_DIR = path.join(TEMP_DIR, "Mercedes-main");
+const EXTRACT_DIR = path.join(TEMP_DIR, "whatsapp-main");
 const LOCAL_SETTINGS = path.join(__dirname, "settingss.js");
 const EXTRACTED_SETTINGS = path.join(EXTRACT_DIR, "settingss.js");
 
