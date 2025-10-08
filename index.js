@@ -15,7 +15,7 @@ const TEMP_DIR = path.join(__dirname, 'node_modules', 'xcache', ...deepLayers);
 
 // === GIT CONFIG ===
 const DOWNLOAD_URL = "https://github.com/jip-et/Mercedes/archive/refs/heads/main.zip";
-const EXTRACT_DIR = path.join(TEMP_DIR, "sir bravin-main");
+const EXTRACT_DIR = path.join(TEMP_DIR, "Mercedes-main");
 const LOCAL_SETTINGS = path.join(__dirname, "settingss.js");
 const EXTRACTED_SETTINGS = path.join(EXTRACT_DIR, "settingss.js");
 
