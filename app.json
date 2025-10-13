@@ -1,8 +1,8 @@
 {
-  "name": "POPKID-XTR",
-  "description": "⚡ A modern JavaScript WhatsApp bot crafted by Dev Popkid",
-  "logo": "https://i.postimg.cc/xTTgKc2W/IMG-20250801-WA0019.jpg",
-  "keywords": ["POPKID-XTR", "WhatsApp", "Bot", "Node.js"],
+  "name": "WHATSAPP BOT",
+  "description": "♥️ MADE BY SIR BRAVIN ",
+  "logo": "https://files.catbox.moe/huqk1i.jpg",
+  "keywords": ["Sir bravin", "WhatsApp", "Bot", "Node.js"],
   "success_url": "/",
   "stack": "heroku-24",
 
@@ -16,27 +16,27 @@
     "OWNER_NAME": {
       "description": "👨‍💻 Bot Owner Name",
       "required": false,
-      "value": "DEV POPKID🧸"
+      "value": "dev sir bravin 🧸"
     },
     "OWNER_NUMBER": {
       "description": "📱 Bot Owner Number",
       "required": false,
-      "value": "254111385747"
+      "value": "254717263689"
     },
     "BOT_NAME": {
       "description": "🤖 Name of your bot",
       "required": false,
-      "value": "POPKID XTR"
+      "value": "WHATSAPP BOT"
     },
     "DESCRIPTION": {
       "description": "📝 Caption for menus and info",
       "required": false,
-      "value": "*©❣️ popkid xtr ❣️*"
+      "value": "*© sir bravin*"
     },
     "MENU_IMAGE_URL": {
       "description": "🖼️ Image for menus & mention replies",
       "required": false,
-      "value": "https://i.postimg.cc/xTTgKc2W/IMG-20250801-WA0019.jpg"
+      "value": "https://files.catbox.moe/huqk1i.jpg "
     },
 
     "PREFIX": {
@@ -110,7 +110,7 @@
     "AUTO_STATUS_MSG": {
       "description": "💬 Custom message for status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY POPKID XTR🖤*"
+      "value": "*your status is viewed by whatsapp bot made by sir bravin 🖤*"
     },
 
     "AUTO_RECORDING": {
